@@ -1,0 +1,5 @@
+*.o
+liblcd.a
+liblcd_test
+
+.deps

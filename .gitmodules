@@ -1,0 +1,3 @@
+[submodule "libaem"]
+	path = aem
+	url = ../libaem/
